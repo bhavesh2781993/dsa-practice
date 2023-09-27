@@ -17,3 +17,15 @@ h
 8src/main/java/algorithms/recursion/P005_SumOfDigits.java,1\f\1f939d384bee2865ee073c16df06cab5a903540b
 l
 <src/main/java/algorithms/recursion/P006_ProductOfDigits.java,7\d\7d8405e6f0e9384117088aab2480446357772434
+f
+6src/main/java/algorithms/recursion/P007_ReverseNo.java,8\4\846dc98010e99b06094798002bba9ad92388a86d
+f
+6src/main/java/algorithms/recursion/P008_ReverseNo.java,d\8\d850d2c06a66a16e946ba4dc274bda3189865f8d
+g
+7src/main/java/algorithms/recursion/P010_CountZeros.java,c\8\c8d034278c43112fb5545cac6a4bfda999972240
+d
+4src/main/java/algorithms/recursion/P001_PrintNo.java,1\4\14347768418777126f1ac3f9012a8b909019a20b
+f
+6src/main/java/algorithms/recursion/P002_Factorial.java,1\1\1114989f2e9b5780aecc804d0ab22646417426da
+g
+7src/main/java/algorithms/recursion/P009_CountZeros.java,a\2\a245eff6638d3c353eded05a6d7b5a602e47512c
