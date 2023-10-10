@@ -6,7 +6,7 @@ import java.util.List;
 public class P023_SubsetIteration {
     public static void main(String[] args) {
         subset(new int[] {1, 2, 3});
-        subsetDupicate(new int[] {1, 2, 2});
+        subsetDuplicate(new int[] {1, 2, 2});
     }
 
     private static void subset(int[] arr) {
@@ -24,7 +24,7 @@ public class P023_SubsetIteration {
         System.out.println(result);
     }
 
-    private static void subsetDupicate(int[] arr) {
+    private static void subsetDuplicate(int[] arr) {
         List<List<Integer>> result = new ArrayList<>();
         result.add(new ArrayList<>());
         int start = 0;
