@@ -6,7 +6,7 @@ public class S_4_1_7 {
         int target = 3;
         final int first = firstOccurrence(arr, target);
         final int last = lastOccurrence(arr, target);
-        System.out.println(last - first + 1);
+        System.out.println("count: " + (last - first + 1));
     }
 
     private static int lastOccurrence(int[] arr, int target) {
